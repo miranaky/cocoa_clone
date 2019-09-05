@@ -1,1 +1,2 @@
-cocoa_clone
+#cocoa_clone
+Kakao Desktop App Clone Study
